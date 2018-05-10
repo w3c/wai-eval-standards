@@ -25,5 +25,5 @@ ACT info:
 Evaluation and Report Language (EARL) is a machine-readable format for expressing test results.
 
 EARL info:
-* [Evaluation and Report Language (EARL) Overview](https://www.w3.org/WAI/intro/earl) includes links to EARL documents.
+* [Evaluation and Report Language (EARL) Overview]({{ "/standards-guidelines/earl/" | relative_url }}) includes links to EARL documents.
 
