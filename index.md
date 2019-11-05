@@ -18,7 +18,7 @@ Accessibility Conformance Testing (ACT) establishes and documents rules for test
 
 ACT info:
 * [ACT Overview]({{ "/standards-guidelines/act/" | relative_url }})
-* [Accessibility Conformance Testing (ACT) Rules Format - Working Draft Standard](https://www.w3.org/TR/act-rules-format/)
+* [Accessibility Conformance Testing (ACT) Rules Format (Standard)](https://www.w3.org/TR/act-rules-format/)
 
 ## Evaluation and Report Language (EARL) {#earl}
 
