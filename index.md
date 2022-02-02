@@ -1,7 +1,7 @@
 ---
 title: "Evaluation Standards Overview - ACT & EARL"
 nav_title: Evauation - ACT & EARL
-lang:en
+lang: en
 permalink: /standards-guidelines/evaluation/
 github:
   repository: w3c/wai-eval-standards
