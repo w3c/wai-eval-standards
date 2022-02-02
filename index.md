@@ -20,6 +20,10 @@ ACT info:
 * [ACT Overview]({{ "/standards-guidelines/act/" | relative_url }})
 * [Accessibility Conformance Testing (ACT) Rules Format (Standard)](https://www.w3.org/TR/act-rules-format/)
 
+The ACT Rules Format was used for developing WCAG 2 Test Rules.
+* [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about)
+* [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
+
 ## Evaluation and Report Language (EARL) {#earl}
 
 Evaluation and Report Language (EARL) is a machine-readable format for expressing test results.
