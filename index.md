@@ -1,11 +1,12 @@
 ---
 title: "Evaluation Standards Overview - ACT & EARL"
 nav_title: Evauation - ACT & EARL
+lang:en
 permalink: /standards-guidelines/evaluation/
 github:
   repository: w3c/wai-eval-standards
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 8 May 2018.</p>
+  <p><strong>Date:</strong> Updated 2 Fenbruary 2022.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
@@ -21,7 +22,7 @@ ACT info:
 * [Accessibility Conformance Testing (ACT) Rules Format (Standard)](https://www.w3.org/TR/act-rules-format/)
 
 The ACT Rules Format was used for developing WCAG 2 Test Rules.
-* [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about)
+* [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about/)
 * [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
 
 ## Evaluation and Report Language (EARL) {#earl}
