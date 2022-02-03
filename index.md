@@ -11,7 +11,7 @@ footer: > # Text in footer in HTML
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
-This page links to resources that support the development of web accessibility evaluation methods and tools. They are primarily for evaluation tool developers.
+This page links to resources that support the development of web accessibility evaluation tools and methodologies. They are primarily for evaluation tool and methodology developers.
 
 ## Accessibility Conformance Testing (ACT) {#act}
 
