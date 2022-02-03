@@ -17,11 +17,11 @@ This page links to resources that support the development of web accessibility e
 
 Accessibility Conformance Testing (ACT) establishes and documents rules for testing the conformance of web content to accessibility standards.
 
-ACT info:
+ACT Rules Format info:
 * [ACT Overview]({{ "/standards-guidelines/act/" | relative_url }})
 * [Accessibility Conformance Testing (ACT) Rules Format (Standard)](https://www.w3.org/TR/act-rules-format/)
 
-The ACT Rules Format was used for developing WCAG 2 Test Rules.
+WCAG 2 Test Rules use the ACT Rules Format:
 * [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about/)
 * [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
 
