@@ -6,7 +6,7 @@ permalink: /standards-guidelines/evaluation/
 github:
   repository: w3c/wai-eval-standards
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 6 February 2023.</p>
+  <p><strong>Date:</strong> Updated 6 May 2024.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
