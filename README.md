@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b2fe9016-b27b-4136-96de-a251637dd728/deploy-status)](https://app.netlify.com/sites/wai-eval-standards/deploys)
+> [!IMPORTANT]
+> This repository has been archived 7 May 2024.
+>
+> [Evaluation Standards Overview - ACT & EARL](https://www.w3.org/WAI/standards-guidelines/evaluation/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
